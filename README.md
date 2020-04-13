@@ -1,6 +1,6 @@
 ## How-to-use-ElasticSearch-with-Django?
 
-### `1. Steps to using ElasticSearch with Django`
+### `Steps to using ElasticSearch with Django`
 
 - Step 1: Set up the virtual machine
 
